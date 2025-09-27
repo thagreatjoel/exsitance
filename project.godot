@@ -11,9 +11,8 @@ config_version=5
 [application]
 
 config/name="Existence"
-run/main_scene="uid://bgi7a6udxyg7w"
+run/main_scene="uid://5tfqlvf7f2qu"
 config/features=PackedStringArray("4.5", "GL Compatibility")
-config/icon="res://icon.svg"
 
 [rendering]
 
