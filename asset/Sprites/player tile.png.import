@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c3m08b75ylylk"
-path="res://.godot/imported/steve.png-1487265587bace0dc0e0149c1037928a.ctex"
+uid="uid://cnem4wkkl5nf2"
+path="res://.godot/imported/player tile.png-c6bd6d0561eda1ddb1bf845a474d6da2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://steve.png"
-dest_files=["res://.godot/imported/steve.png-1487265587bace0dc0e0149c1037928a.ctex"]
+source_file="res://asset/Sprites/player tile.png"
+dest_files=["res://.godot/imported/player tile.png-c6bd6d0561eda1ddb1bf845a474d6da2.ctex"]
 
 [params]
 

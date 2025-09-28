@@ -13,4 +13,4 @@ func _process(delta: float) -> void:
 	elif move_right and not move_left:
 		# Player moves right → background moves left
 		motion_offset.x -= speed * delta
-	# else: no movement if both keys pressed or none
+	# els

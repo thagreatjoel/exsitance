@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://beaj5f2x61frf"
-path="res://.godot/imported/char_blue.png-27784910195866913700e643d6e1066d.ctex"
+uid="uid://bg85yts8svqx"
+path="res://.godot/imported/high leap.png-c1f7ae510f51bb98ee305c87ef2d8537.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://char_blue.png"
-dest_files=["res://.godot/imported/char_blue.png-27784910195866913700e643d6e1066d.ctex"]
+source_file="res://asset/Sprites/high leap.png"
+dest_files=["res://.godot/imported/high leap.png-c1f7ae510f51bb98ee305c87ef2d8537.ctex"]
 
 [params]
 

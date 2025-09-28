@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=3 uid="uid://bqgen808voedd"]
+
+[ext_resource type="Script" uid="uid://dpsdn1w8rc6kd" path="res://Scripts/Skills/shadow_step.gd" id="2_fjo6d"]
+
+[node name="SkillManager" type="Node"]
+
+[node name="ShadowStep" type="Node" parent="."]
+script = ExtResource("2_fjo6d")
